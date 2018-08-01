@@ -289,7 +289,7 @@ function display_forgot_form()
 								</p>
                                 <p class="change_link">  
 									Login
-									<a href="#tologin" class="to_register"> here </a>
+									<a href="login.php" class="to_register"> here </a>
 								</p>
 								</form>
                         </div>
