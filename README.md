@@ -14,8 +14,9 @@ Note that you have to work on the app CSS and modify the source code to your tas
 The Features of this source code are that users will be able:
 1. to register 
 2. to login
-3. to reset password when forgot
-4. to change password
-5. it is also riched with HTML5 and CSS3
+3. to logout
+4. to reset password when forgot
+5. to change password
+6. it is also riched with HTML5 and CSS3
 
 Visit my website https://bit.obrainacademy.com to see more of my works.
