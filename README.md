@@ -9,7 +9,7 @@ After the downloading, Create your database and user table or you can simply imp
 
 Hence, call the app's name on your browser. For example, localhost/bit-register-login-source to load the app.
 
-Note that you have to work on the app CSS and modify the source code to your taste and if you need help on that, contact me through the WhatsApp or bit@obrainacademy.com.
+Note that you have to work on the app CSS and modify the source code to your taste and if you need help on that, contact me through the WhatsApp or support@m3tech.com.ng.
 
 The Features of this source code are that users will be able:
 1. to register 
@@ -19,4 +19,4 @@ The Features of this source code are that users will be able:
 5. to change password
 6. it is also riched with HTML5 and CSS3
 
-Visit my website https://bit.obrainacademy.com to see more of my works.
+Visit my website https://m3tech.com.ng to see more of my works.
