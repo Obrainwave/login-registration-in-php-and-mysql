@@ -26,12 +26,12 @@ function do_html_header($title)
         <div class="container">
             <!-- Codrops top bar -->
             <div class="codrops-top">
-                <a href="">
+                <a href="index.php">
                     <strong>&laquo; Home: </strong>PHP & MySQL Login & Register Form with HTML5 & CSS3
                 </a>
                 <span class="right">
-                    <a href=" https://bit.obrainacademy.com/" target="blank">
-                        <strong>Go to &raquo; Brainwave Institute of Technology</strong>
+                    <a href=" https://m3tech.com.ng/" target="blank">
+                        <strong>Go to &raquo; M3 Technology</strong>
                     </a>
                 </span>
                 <div class="clr"></div>
@@ -50,13 +50,13 @@ function do_html_header($title)
 function do_html_heading($title)
 {
 ?>	
-<head>
-<title><?php echo $title;?></title>
-</head>
+    <head>
+        <title><?php echo $title;?></title>
+    </head>
 <?php
 }
-if($title)
-do_html_heading($title);
+    if($title)
+        do_html_heading($title);
 }
 
 function display_site_info()
@@ -206,7 +206,7 @@ function get_user_urls()
 
 function do_html_url() 
 {
-	echo "<a href='login.php'> <b>Login here</b></a> or <a href='register_form.php'><b> Sign Up </b> </a> ";
+	echo "<a href='login.php'> <b>Login here</b></a> or <a href='login.php#toregister'><b> Sign Up </b> </a> ";
 }
 
 function display_changepwd_form()

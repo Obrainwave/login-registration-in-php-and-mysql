@@ -43,9 +43,10 @@ register($username, $email, $passwd);
 $_SESSION['valid_user'] = $username;
 // provide link to members page
 do_html_header('Registration successful');
-   echo "<div class='content'>Your registration was successful.  Go to the members page to start setting up your profile!</div>";
+   echo "<div class='content'>Your registration was successful. Go to the <a href='index.php>Membership Page</a> to start setting up your profile!</div>";
+   //echo "<div class='content'><p> <a href='index.php>Update profile</a></p></div>";
 //do_html_url('member.php', 'Go to members page');
-echo "<div class='content'><p> <a href='index.php>Update profile</a></div>";
+
 // end page
 do_html_footer();
 }

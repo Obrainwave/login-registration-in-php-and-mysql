@@ -1,6 +1,6 @@
-create database bitdb;
+/*create database bitdb;*/
 use bitdb;
-create table user  (
+create table user (
 username varchar(16) not null primary key,
 passwd char(40) not null,
 email varchar(100) not null
